@@ -1,0 +1,17 @@
+.comwidth{
+	width:1190px;
+	margin-right:auto;
+	margin-left: auto;
+}
+.left_area{
+	float: left;
+}
+.right_area{
+	float: right;
+}
+.hide{
+	display: none;
+}
+.show{
+	display: block;
+}
